@@ -1,4 +1,4 @@
-# Breakout-ACII
+# Breakout-ACII ⚽️⚽️
 
 Breakout-ACII is a terminal-based game inspired by the classic Atari Breakout. Play right from your command line—no graphics required!
 
